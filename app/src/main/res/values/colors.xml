@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#0D0D0D</color>
+    <color name="bgBodyColor">#1A1A1A</color>
+    <color name="bgTask">#262626</color>
+    <color name="colorBlue">#1E6F9F</color>
+    <color name="purple">#8284FA</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="splash_bg">#0D0D0D</color>
+</resources>
